@@ -119,6 +119,38 @@ SSoC provides workshops, sessions, and mentorship across multiple domains:
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h1 align="center">🚀 CodeSprint WebDev Challenge 💻🔥</h1>
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-darkgreen?style=for-the-badge&logo=mongodb)
+![TypeScript](https://img.shields.io/badge/TypeScript-Programming-blue?style=for-the-badge&logo=typescript)
+![62 Days Challenge](https://img.shields.io/badge/62-Days%20Challenge-ff6b35?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributions-success?style=for-the-badge)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Welcome+to+62Days+CodeSprint+WebDev+Challenge+🚀;Master+Frontend+and+Full+Stack+Development+💻;Learn+HTML+CSS+JavaScript+⚡;Build+Projects+Every+Day+🔥;Explore+React+Node.js+and+MongoDB+🌐;Contribute+to+Open+Source+🌟;Fork+the+Repository+🍴;Create+Amazing+Pull+Requests+✅;Improve+Your+Development+Skills+🚀;Code+Commit+Collaborate+and+Grow+🎯;Become+a+Full+Stack+Developer+💡" alt="Typing SVG" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
