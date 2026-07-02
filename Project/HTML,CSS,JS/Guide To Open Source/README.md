@@ -4,6 +4,8 @@
 
 ### An interactive website providing a comprehensive guide to version control with Git and contributing to open-source projects on GitHub.
 
+### Live Preview: [rhalbhavi.github.io/definitive-guide-to-open-source.github.io/](rhalbhavi.github.io/definitive-guide-to-open-source.github.io/)
+
 <br>
 <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -49,11 +51,13 @@ The project is built with a simple and clean structure:
 
 ## Screenshots
 
-![alt text](image.png)
+<img width="1648" height="923" alt="image" src="https://github.com/user-attachments/assets/2d6cb97e-2ab8-483c-aa03-a2eccde13919" />
 
-![alt text](image-1.png)
+<img width="1648" height="919" alt="image" src="https://github.com/user-attachments/assets/67378c5a-5201-4d1d-81af-0633cf855319" />
 
-![alt text](image-2.png)
+<img width="1648" height="855" alt="image" src="https://github.com/user-attachments/assets/a01fcf87-3e21-42c5-81c1-965f0075587b" />
+
+<img width="1648" height="919" alt="image" src="https://github.com/user-attachments/assets/33dc5721-a59a-4131-99e1-7d9d426c0276" />
 
 ---
 
