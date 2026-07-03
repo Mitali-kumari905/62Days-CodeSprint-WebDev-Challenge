@@ -99,7 +99,7 @@ const ForgotPassword = () => {
         return;
       }
 
-      if (newPassword.length < 6) {
+      if (newPassword.length < 8) {
         showToast(
           "Password must be at least 8 characters",
           "error"
