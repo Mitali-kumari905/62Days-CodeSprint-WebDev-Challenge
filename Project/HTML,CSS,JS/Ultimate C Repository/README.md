@@ -17,7 +17,7 @@
 
 ---
 
-- **Source Repository** — [github.com/riyahal/C-Programming-and-DSA](https://github.com/riyahal/C-Programming-and-DSA)
+- **Source Repository** — [github.com/rhalbhavi/C-Programming-and-DSA](https://github.com/riyahal/C-Programming-and-DSA)
 
 ---
 
