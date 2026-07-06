@@ -15,6 +15,17 @@
     <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="MIT License">
 </p>
 
+---
+
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 18-30-05" src="https://github.com/user-attachments/assets/ce3cb6c0-b043-4ea9-bbd5-bacb25193d86" />
+
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 18-30-23" src="https://github.com/user-attachments/assets/6793da1e-4839-4507-83af-8ed3be0b5136" />
+
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 18-31-37" src="https://github.com/user-attachments/assets/b25f0ee1-f001-4823-a2c0-709032e6d8e7" />
+
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 18-43-53" src="https://github.com/user-attachments/assets/83879875-ad35-46cf-880b-7dc5e5fa589d" />
+
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 19-38-19" src="https://github.com/user-attachments/assets/2901526f-c30c-4cfe-8291-741951c5e6ce" />
 
 ---
 
@@ -34,7 +45,7 @@ This website serves as a **visual, interactive documentation platform** for Java
 
 | Feature | Description |
 |---|---|
-| **Live Code Rendering** | C `.c` files are fetched and displayed with Prism.js syntax highlighting |
+| **Live Code Rendering** | Java `.java` files are fetched and displayed with Prism.js syntax highlighting |
 | **Markdown Rendering** | `.md` overview files are parsed with `marked` and displayed as styled HTML |
 | **Nested Sidebar Navigation** | Accordion-style tree matching the repository's folder structure |
 | **Topic Dropdowns** | Quick navigation via hover-reveal menus in the header |
@@ -151,7 +162,7 @@ python3 -m http.server 8000
    - The sidebar and main content area are rebuilt via `resolveAndBuildContent()`
 
 4. **Content Rendering** — For each file in the current subtree:
-   - `.c` → fetched with `fetch()`, displayed inside a `<pre><code>` block, then highlighted with `Prism.highlightElement()`
+   - `.java` → fetched with `fetch()`, displayed inside a `<pre><code>` block, then highlighted with `Prism.highlightElement()`
    - `.md` → fetched and parsed with `marked.parse()`, rendered as HTML
    - `.png` → displayed as an `<img>` tag
    - Folders → recursively expanded with accordion controls
