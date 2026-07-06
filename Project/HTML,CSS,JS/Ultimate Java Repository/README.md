@@ -1,6 +1,6 @@
 <div align="center">
     
-# ⚙️ Ultimate Java Repository 📖
+# ♨️ Ultimate Java Repository 📖
 
 > An interactive static website for learning and browsing structured Java programs — with syntax-highlighted code, rendered markdown guides, and a clean, searchable layout.
 
@@ -10,38 +10,23 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/Java-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
     <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="MIT License">
 </p>
 
----
-
-## 🔗 Live Site — (this repo)
-
-- **Source Repository** — This workspace contains the Java examples and overview guides for core Java topics.
-
----
-
-<img width="1464" height="890" alt="image" src="https://github.com/user-attachments/assets/9fb535bc-297e-4e44-a989-bbeb3b073691" />
-
-<img width="1464" height="890" alt="image" src="https://github.com/user-attachments/assets/f3f06dee-e57a-4184-8cff-1f83dbae01fb" />
-
-<img width="1464" height="890" alt="image" src="https://github.com/user-attachments/assets/65a069d8-2339-4d07-b04e-7c6388786fda" />
 
 ---
 
 ## ✨ About
 
-This website serves as a **visual, interactive documentation platform** for the [C-Programming-and-DSA](https://github.com/riyahal/C-Programming-and-DSA) repository. Instead of browsing raw files on GitHub, you get:
+This website serves as a **visual, interactive documentation platform** for Java programs. Instead of browsing raw files on GitHub, you get:
 
-- **Syntax-highlighted C code** rendered directly from the source files
+- **Syntax-highlighted Java code** rendered directly from the source files
 - **Rendered Markdown guides** for conceptual topics
 - **Accordion sidebar navigation** with expandable folders
 - **Dropdown topic menus** for jumping between subjects
 - **Brutalist dark UI** with scanline animations
-
-All content is pulled live from the repository's file tree — update the repo files and the site stays in sync.
 
 ---
 
@@ -114,10 +99,8 @@ Files of interest (examples present in this workspace):
 - `Variables.java`
 - `Wrapper_Class.java`
 
-Other folders contain subtopics such as `Arrays/`, `Strings/`, `Methods/`, and topic-specific examples.
-
 Each topic folder contains either:
-- Single `.c` files (directly rendered with syntax highlighting)
+- Single `.java` files (directly rendered with syntax highlighting)
 - A `.md` file (rendered as HTML)
 - Multiple files in subdirectories (shown as expandable sidebar groups)
 
@@ -129,7 +112,7 @@ Each topic folder contains either:
 
 ```bash
 git clone <this-repo-url>
-cd "Ultimate Java Repository"
+cd "Ultimate-Java-Repository"
 ```
 
 ### 2. Regenerate the File Manifest (Optional)
@@ -179,7 +162,7 @@ python3 -m http.server 8000
 
 ## ✏️ Adding New Content
 
-1. **Add a new subtopic folder** (e.g., `NewTopic/SubFolder/`) with your `.c`, `.md`, or `.png` files.
+1. **Add a new subtopic folder** (e.g., `NewTopic/SubFolder/`) with your `.java`, `.md`, or `.png` files.
 2. **Register the subtopic** in `script.js` under the `topicsData` object, specifying the parent topic and optionally a `preferredOrder` array for sidebar sorting.
 3. **Regenerate the manifest:**
 
